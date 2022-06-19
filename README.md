@@ -22,6 +22,6 @@ __For the script to work correctly:__
  __Concepts:__
  
  * whichDOS: Which Default Operating System.
- * TTL: Time To Live. This is the time that the operating system tells the servers how long to store a DNS record in local memory before it is discarded. It can be modified manually. 
+ * TTL: Time To Live. It is the time that the operating system tells the servers to store a DNS record in local memory before it is discarded. It can be modified manually.
 
 > Author: v1c_gm
