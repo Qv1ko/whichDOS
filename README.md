@@ -12,7 +12,7 @@ __For the script to work correctly:__
 
   Example: ```whichDOS.py 10.10.10.21```
 
- *Add the script to a not absolute path on your system (you must run the script in the same path where the script is located).*
+* Add the script to a not absolute path on your system (you must run the script in the same path where the script is located).
  
  
  _CONCEPTS_
