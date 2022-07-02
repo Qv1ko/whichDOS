@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #Coding: UTF-8
 
-# Author: Víctor García (aka v1c_gm)
+# Author: Víctor García (aka v1xo)
 
 import re, sys, subprocess
 
