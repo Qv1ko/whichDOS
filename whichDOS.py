@@ -27,10 +27,10 @@ def get_os(ttl):
 		return "Linux / FreeBSD / MacOS"
 	elif ttl >= 118 and ttl <= 138:
 		# Windows default TTL -> 128
-		return "Windows"
+		return "Microsoft Windows"
 	elif ttl >= 245 and ttl <= 255:
 		# Solaris, OpenBSD default TTL -> 255
-		return "Solaris / OpenBSD"
+		return "OpenBSD / Solaris"
 	else:
 		return "Default TTL not found"
 
