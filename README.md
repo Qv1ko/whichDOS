@@ -29,4 +29,5 @@ __For the script to work correctly:__
  * TTL: Time To Live. It is the time that the operating system tells the servers to store a DNS record in local memory before it is discarded. It can be modified manually.
 
 > Author: s4vitar
+
 > Modifier: Qv1ko
