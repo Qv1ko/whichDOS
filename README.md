@@ -1,5 +1,9 @@
 # MANUAL
 
+***Language***
+- [🇪🇸 Spanish](./README-es.md)
+- 🇺🇸 English
+
 __For the script to work correctly:__
 
   *You have two options when executing the python3 script.*
