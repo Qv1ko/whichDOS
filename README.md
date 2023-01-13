@@ -2,7 +2,7 @@
 Script to detect the possible target operating system.
 
 ### README language
-* 🇪🇸 [Spanish](./README.md)
+* 🇪🇸 [Spanish](./README-es.md)
 * 🇺🇸 **English**
 
 ## Installation
