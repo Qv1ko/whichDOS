@@ -3,7 +3,7 @@ Script para detectar el posible sistema operativo del objetivo.
 
 ### Idioma del README
 * 🇪🇸 **Español**
-* 🇺🇸 [Inglés](./README-en.md)
+* 🇺🇸 [Inglés](./README.md)
 
 ## Instalación
 1. Clona el repositorio en su sistema:
