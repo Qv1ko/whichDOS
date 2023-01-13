@@ -1,33 +1,23 @@
-# MANUAL
+# whichDOS
+Script para detectar el posible sistema operativo del objetivo.
 
-***Idioma***
-- 🇪🇸 Español
-- [🇺🇸 Inglés](./README.md)
+### Idioma del README
+* 🇪🇸 **Español**
+* 🇺🇸 [Inglés](./README-en.md)
 
-__Para que el script funcione correctamente:__
+## Instalación
+1. Clona el repositorio en su sistema:
+`git clone https://github.com/Qv1ko/whichDOS.git`
+2. Entra dentro del directorio de whichDOS:
+`cd whichDOS`
+3. Da permisos de ejecucion al script:
+`chmod +x whichDOS.py`
+4. Copia el archivo whichDOS.py en una ruta absoluta de su sistema:
+`cp whichDOS.py /usr/bin/`
 
-  *Tienes dos opciones al ejecutar el script de python3.*
+## Uso
+Para usar el script, hay que ejecutar en la consola el siguiente comando:
+`whichDOS.py {target ip}`
 
-* Introduzca el script en una ruta absoluta de su sistema (puede ejecutar el script desde cualquier otra ruta).
-
-  1. Introduzca el script de python3 en un directorio de su ruta absoluta.
-  2. Dele permisos de ejecución al script (`chmod +x whichDOS.py`).
-  3. Para ejecutar el script, tienes que escribir el nombre del script y la ip de destino (`whichDOS.py {target ip}`).
-
-  Ejemplo: `whichDOS.py 10.10.10.21`
-
-* Añadir el script a una ruta no absoluta en su sistema (debe ejecutar el script en la misma ruta donde se encuentra el script).
-
-    1. Inserte el script de python3 en su directorio actual.
-    2. Para ejecutar el script, debes escribir python3, el nombre del script y la ip objetivo (`python3 whichDOS.py {ip target}`).
-
-  Ejemplo: `python3 whichDOS.py 10.10.10.21`
- 
- __Conceptos:__
- 
- * whichDOS: Which Default Operating System.
- * TTL: Time To Live. Es el tiempo que el sistema operativo indica a los servidores que almacenen un registro DNS en la memoria local antes de que sea descartado. Se puede modificar manualmente.
-
-> Autor: s4vitar
-
-> Modificador: Qv1ko
+## Autor
+* Marcelo Vázquez ([s4vitar](https://github.com/s4vitar))
