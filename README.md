@@ -13,7 +13,7 @@ Script to detect the possible target operating system.
 2. Go inside the whichDOS directory:
 `cd whichDOS`
 3. Give run permissions to the script:
-`chmod +x whichDOS.py`.
+`chmod +x whichDOS.py`
 4. Copy the whichDOS.py file to an absolute path on your system:
 `cp whichDOS.py /usr/bin/`
 
