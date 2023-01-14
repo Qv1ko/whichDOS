@@ -1,5 +1,5 @@
 # whichDOS
-Script to detect the possible target operating system.
+Script to detect the possible operating system of the target through its TTL.
 
 [![Python](https://img.shields.io/badge/Python-3+-477CAE?label=Python&logo=python&style=flat-square)](https://www.python.org)
 
