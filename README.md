@@ -1,6 +1,8 @@
 # whichDOS
 Script to detect the possible target operating system.
 
+[![Python](https://img.shields.io/badge/Python-3+-477CAE?label=Python&logo=python&style=flat-square)](https://www.python.org)
+
 ### README language
 * 🇪🇸 [Spanish](./README-es.md)
 * 🇺🇸 **English**
