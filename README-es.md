@@ -1,7 +1,7 @@
 # whichDOS
 Script para detectar el posible sistema operativo del objetivo a través de su TTL.
 
-[![Python](https://img.shields.io/badge/Python-3+-477CAE?label=Python&logo=python&style=flat-square)](https://www.python.org)
+[![Python](https://img.shields.io/badge/Python-3+-477CAE?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 
 ### Idioma del README
 * 🇪🇸 **Español**
