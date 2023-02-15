@@ -7,6 +7,8 @@ Script to detect the possible operating system of the target through its TTL.
 * 🇪🇸 [Spanish](./README-es.md)
 * 🇺🇸 **English**
 
+![example](./media/example.gif)
+
 ## Installation
 1. Clone the repository on your system.
     ```bash

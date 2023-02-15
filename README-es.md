@@ -7,6 +7,8 @@ Script para detectar el posible sistema operativo del objetivo a través de su T
 * 🇪🇸 **Español**
 * 🇺🇸 [Inglés](./README.md)
 
+![example](./media/example.gif)
+
 ## Instalación
 1. Clona el repositorio en su sistema.
     ```bash
