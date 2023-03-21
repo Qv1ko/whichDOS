@@ -4,8 +4,8 @@ Script para detectar el posible sistema operativo del objetivo a través de su T
 [![Python](https://img.shields.io/badge/Python-3+-477CAE?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 
 ### Idioma del README
-* 🇪🇸 **Español**
-* 🇺🇸 [Inglés](./README.md)
+- 🇪🇸 **Español**
+- 🇺🇸 [Inglés](./README.md)
 
 ![example](./media/example.gif)
 
@@ -34,4 +34,4 @@ whichDOS.py {target ip}
 ```
 
 ## Autor
-* Marcelo Vázquez ([s4vitar](https://github.com/s4vitar))
+- Marcelo Vázquez ([s4vitar](https://github.com/s4vitar))
