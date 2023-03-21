@@ -4,8 +4,8 @@ Script to detect the possible operating system of the target through its TTL.
 [![Python](https://img.shields.io/badge/Python-3+-477CAE?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 
 ### README language
-* 🇪🇸 [Spanish](./README-es.md)
-* 🇺🇸 **English**
+- 🇪🇸 [Spanish](./README-es.md)
+- 🇺🇸 **English**
 
 ![example](./media/example.gif)
 
@@ -34,4 +34,4 @@ whichDOS.py {target ip}
 ```
 
 ## Author
-* Marcelo Vázquez ([s4vitar](https://github.com/s4vitar))
+- Marcelo Vázquez ([s4vitar](https://github.com/s4vitar))
