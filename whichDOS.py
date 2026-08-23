@@ -11,13 +11,16 @@ if len(sys.argv) != 2:
 
 def get_ttl(ip_address):
 
-	proc = subprocess.Popen(["/usr/bin/ping -c 1 %s" % ip_address, ""], stdout=subprocess.PIPE, shell=True)
+	command = ["ping", "-c", "1"] if sys.platform != "win32" else ["ping", "-n", "1"]
+	proc = subprocess.Popen(command + [ip_address], stdout=subprocess.PIPE)
 	(out,err) = proc.communicate()
-	out = out.split()
-	out = out[12].decode('utf-8')
-	ttl_value = re.findall(r"\d{1,3}", out)[0]
+	ttl_value = re.findall(r"ttl[=:]?\s*(\d{1,3})", out.decode('utf-8'), re.IGNORECASE)
 
-	return ttl_value
+	if not ttl_value:
+		print("\n\n[!] ERROR - No response from host\n")
+		sys.exit(1)
+
+	return ttl_value[0]
 
 def get_os(ttl):
 
