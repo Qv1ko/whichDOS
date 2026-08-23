@@ -38,6 +38,12 @@ Para usar el script, hay que ejecutar en la consola el siguiente comando.
 whichDOS.py {target ip}
 ```
 
+Funciona en Linux, macOS y Windows.
+
+## Licencia
+
+Este proyecto está bajo la [Licencia MIT](./LICENSE).
+
 ## Autor
 
 - Marcelo Vázquez ([s4vitar](https://github.com/s4vitar))
